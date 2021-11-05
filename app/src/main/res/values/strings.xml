@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">D1V TASK</string>
+    <string name="d1v_task">D1V TASK!</string>
+    <string name="add_a_new_task">Add a new task</string>
+    <string name="task">Task</string>
+    <string name="description">Description</string>
+    <string name="june_18_2020">June 18, 2020</string>
+</resources>
